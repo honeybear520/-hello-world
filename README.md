@@ -1,2 +1,5 @@
 # -hello-world
- New repository
+
+hi hunmas
+i from CN
+nice to meet all you guys!
